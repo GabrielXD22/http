@@ -1,0 +1,36 @@
+
+#painel{
+  max-width:auto;
+  max-height:auto;
+  width: auto;
+  height: auto;
+}
+
+#inicio{
+  top: 260px;
+  left: 130px;
+  position: absolute;
+}
+
+#menu_painel{
+  max-width:1220px;
+  max-height:auto;
+  width: auto;
+  height: auto;
+  position: absolute;
+  top: 200px;
+  left: 60px;
+}
+
+.backgrnd{
+  max-width:500px;
+  max-height:30px;
+  width: auto;
+  height: auto;
+}
+
+.container{
+  border: 3px solid DarkGoldenrod	;
+  height: 500px;
+
+}
